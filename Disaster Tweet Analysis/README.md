@@ -18,3 +18,5 @@ This dataset was created by the company figure-eight and originally shared on th
 
 Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
 
+
+![OneLiner_Project_Outcome](https://user-images.githubusercontent.com/118588061/224990518-f5650bfb-b409-4f51-b069-4bc16c3fda5d.PNG)
