@@ -1,6 +1,6 @@
 # Machine_Leaning_Projects
  
-All projects Read.me FIle include Project Outcome attached.
+All projects Read.me File include Project Outcome attached.
 
 For all working Projects- Project Outcome is not attached.
 
