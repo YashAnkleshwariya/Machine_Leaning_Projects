@@ -12,4 +12,4 @@ Building a model to predict whether a customer would be interested in Vehicle In
 
 Now, in order to predict, whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
 
- ![image](https://user-images.githubusercontent.com/118588061/226915252-eca607e9-b7ea-4021-a86c-28fd59afdcdb.png)
+ ![Oneliner_Project_Outcome](https://user-images.githubusercontent.com/118588061/233892532-22026a35-50f1-49b5-9324-109fad24b65e.PNG)
